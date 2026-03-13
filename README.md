@@ -8,13 +8,13 @@ School of Mathematical Sciences, Shanghai Jiao Tong University
 
 ## 公开内容 Public sources
 
-分析
--数学分析I
--数学分析II
+### 分析
+- 数学分析I
+- 数学分析II
 
-代数
--范畴论
--代数数论
+### 代数
+- 范畴论
+- 代数数论
 
-概率统计
--概率论
+### 概率统计
+- 概率论
