@@ -6,15 +6,19 @@ School of Mathematical Sciences, Shanghai Jiao Tong University
 ## 更新记录 Updating Records
 2026.3.14 完成主页初步建设
 
-## 公开内容 Public sources
+## 公开内容 Public resources
 
-### 分析
+### 分析 Analysis
 - 数学分析I
 - 数学分析II
 
-### 代数
+### 代数 Algebra
 - 范畴论
 - 代数数论
 
-### 概率统计
+### 概率统计 Probability & Statistics
 - 概率论
+
+## 非公开内容 Private resources
+
+习题解答
